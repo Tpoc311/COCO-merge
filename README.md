@@ -42,3 +42,7 @@ named as `COCO_annotation.json`.
 ## Versions
 
 Python 3.10.5
+
+## Sources
+
+1. https://gradiant.github.io/pyodi/reference/apps/coco-merge/
