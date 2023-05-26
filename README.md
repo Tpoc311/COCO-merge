@@ -1,9 +1,10 @@
 # COCO-merge
 
-The coco_merge script performs the merging of several datasets with markup in the COCO format.
+The coco_merge script performs the merging of several datasets with markup in the COCO format. To get more information
+follow the [link](https://cocodataset.org/).
+
 After executing the script in the specified location `-mp` the `lbl` folder will be created in which the json file with
-the markup will be located.
-Also, all images with changed names will be transferred to the specified location.
+the markup will be located. Also, all images with changed names will be transferred to the specified location.
 
 ## How to launch coco_merge
 
